@@ -1,0 +1,11 @@
+{
+  "name": "test-patch-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Sheldrick <david@futurice.com>",
+  "license": "MIT",
+  "dependencies": {
+    "left-pad": "^1.1.3",
+    "patch-package": "^3.4.2"
+  }
+}
